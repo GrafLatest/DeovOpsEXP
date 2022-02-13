@@ -15,7 +15,6 @@ def get_money_interval():
 
 
 def get_guess_from_user():
-    print(y)
     get_guess = input(f"How much you think {t} Dollars is in New Israeli Shekels? ")
     get_guess = float(get_guess)
     return get_guess
