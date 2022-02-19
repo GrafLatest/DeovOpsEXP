@@ -1,0 +1,247 @@
+1645298532652	geckodriver	INFO	Listening on 127.0.0.1:55931
+1645298532663	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "51151" "-no-remote" "-profile" "/tmp/rust_mozprofilerBk63z"
+1645298534158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerBk63z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51151/devtools/browser/c197f729-6a04-49bd-8e8e-b0c0adf40f5d
+1645298537176	Marionette	INFO	Listening on port 44523
+1645298537270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ynet.co.il"
+1645298550731	Marionette	INFO	Stopped listening on port 44523
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645298729953	geckodriver	INFO	Listening on 127.0.0.1:52457
+1645298729964	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "50329" "-no-remote" "-profile" "/tmp/rust_mozprofileIuIKFs"
+1645298731571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIuIKFs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50329/devtools/browser/6e4bd3e4-dba2-4fc4-9462-f35debdc847e
+1645298735084	Marionette	INFO	Listening on port 41311
+1645298735232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://cdn.flowplayer.com/releases/native/stable/default/flowplayer.min.js, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://cdn.flowplayer.com/releases/native/stable/default/flowplayer.min.js, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ynet.co.il"
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RTAFWjK1oaY5MR175eart5uncqyuFBD5-f7_3Cl3Idw.js line 1 > eval line 4503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645299188805	geckodriver	INFO	Listening on 127.0.0.1:42905
+1645299188816	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "38585" "-no-remote" "-profile" "/tmp/rust_mozprofileeCSD3b"
+1645299190419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeCSD3b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38585/devtools/browser/4326b157-8061-4d01-af1e-6753b80e61e4
+1645299193560	Marionette	INFO	Listening on port 35637
+1645299193681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645299224367	Marionette	INFO	Stopped listening on port 35637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645299492507	geckodriver	INFO	Listening on 127.0.0.1:55801
+1645299492518	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "60115" "-no-remote" "-profile" "/tmp/rust_mozprofileXIFSDM"
+1645299494008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXIFSDM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60115/devtools/browser/c05d0c9a-bdba-403c-988a-7857b84cc312
+1645299497080	Marionette	INFO	Listening on port 43219
+1645299497184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645299513686	Marionette	INFO	Stopped listening on port 43219
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.flowplayer.com/releases/native/stable/default/flowplayer.min.js, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://cdn.flowplayer.com/releases/native/stable/default/flowplayer.min.js, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RTAFWjK1oaY5MR175eart5uncqyuFBD5-f7_3Cl3Idw.js line 1 > eval line 3425 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1645299641366	geckodriver	INFO	Listening on 127.0.0.1:37519
+1645299641377	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "57745" "-no-remote" "-profile" "/tmp/rust_mozprofileykcPBf"
+1645299643059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileykcPBf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57745/devtools/browser/fbb8ccf4-844b-4cfc-85a4-45ad4c6ac4ea
+1645299646601	Marionette	INFO	Listening on port 45585
+1645299646750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1645299817443	geckodriver	INFO	Listening on 127.0.0.1:56375
+1645299817467	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "41685" "-no-remote" "-profile" "/tmp/rust_mozprofileIaajnS"
+1645299819043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIaajnS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41685/devtools/browser/c693256c-dfd8-4ef0-a68e-2f156f5f66e3
+1645299822706	Marionette	INFO	Listening on port 44311
+1645299822840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645299832273	Marionette	INFO	Stopped listening on port 44311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645300020928	geckodriver	INFO	Listening on 127.0.0.1:47401
+1645300020938	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "44717" "-no-remote" "-profile" "/tmp/rust_mozprofilepuEOaq"
+1645300022459	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepuEOaq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44717/devtools/browser/244d6f33-053f-4f3b-b0e6-102c37735a3b
+1645300025531	Marionette	INFO	Listening on port 40857
+1645300025577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645300128173	geckodriver	INFO	Listening on 127.0.0.1:56649
+1645300128182	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "50965" "-no-remote" "-profile" "/tmp/rust_mozprofilevq7q7O"
+1645300129696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevq7q7O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50965/devtools/browser/4d4623db-0502-455c-9d1a-bc690ce6fd18
+1645300132573	Marionette	INFO	Listening on port 38083
+1645300132660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645300145392	Marionette	INFO	Stopped listening on port 38083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645300297135	geckodriver	INFO	Listening on 127.0.0.1:55699
+1645300297144	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "59925" "-no-remote" "-profile" "/tmp/rust_mozprofileJL6N2u"
+1645300298360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJL6N2u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59925/devtools/browser/e0fe2e54-4c4e-4d7d-9a67-5a5042da948b
+1645300301335	Marionette	INFO	Listening on port 39189
+1645300301391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645300304292	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645300406610	Marionette	INFO	Stopped listening on port 39189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.flowplayer.com/releases/native/stable/default/flowplayer.min.js, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://cdn.flowplayer.com/releases/native/stable/default/flowplayer.min.js, line 15: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/RTAFWjK1oaY5MR175eart5uncqyuFBD5-f7_3Cl3Idw.js line 1 > eval line 1881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1645300491121	Marionette	INFO	Stopped listening on port 41311
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645300493199	Marionette	INFO	Stopped listening on port 40857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645300694248	geckodriver	INFO	Listening on 127.0.0.1:36133
+1645300694259	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "44969" "-no-remote" "-profile" "/tmp/rust_mozprofileVNEjTQ"
+1645300695382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVNEjTQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44969/devtools/browser/e2818944-ce5f-45aa-8188-58719da65ada
+1645300697030	Marionette	INFO	Listening on port 39351
+1645300697125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645300698787	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645300790029	Marionette	INFO	Stopped listening on port 39351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1645300901975	geckodriver	INFO	Listening on 127.0.0.1:48493
+1645300901986	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "46901" "-no-remote" "-profile" "/tmp/rust_mozprofilexpfLHC"
+1645300903565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexpfLHC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46901/devtools/browser/f4e32825-272e-4b4d-8e60-b0258b983733
+1645300907209	Marionette	INFO	Listening on port 35057
+1645300907379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645300908874	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645300925021	Marionette	INFO	Stopped listening on port 35057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645301016550	geckodriver	INFO	Listening on 127.0.0.1:56885
+1645301016561	mozrunner::runner	INFO	Running command: "/bin/firefox" "--marionette" "--remote-debugging-port" "59145" "-no-remote" "-profile" "/tmp/rust_mozprofileOTYoW5"
+1645301018134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOTYoW5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59145/devtools/browser/a85e686c-61a8-448c-b002-5a57419cfc3a
+1645301021182	Marionette	INFO	Listening on port 35495
+1645301021340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645301023000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1645301038013	Marionette	INFO	Stopped listening on port 35495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
