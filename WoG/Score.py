@@ -1,4 +1,4 @@
-from Live import *
+import Live
 import Utils
 import os
 
@@ -12,4 +12,3 @@ def add_score(difficulty_chosen):
         current_score = int(file.read())
         file.seek(0)
         file.write(str(current_score + ((difficulty_chosen * 3) + 5)))
-

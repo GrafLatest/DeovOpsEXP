@@ -10,6 +10,7 @@ def test_score_service():
     soup = BeautifulSoup(html_content, "html.parser")
     print(soup.h1.text)
 
+
 def main_function():
     up = validators.url("http://127.0.0.1:8585/")
     if up == True:
@@ -18,6 +19,7 @@ def main_function():
         print("Error, code number -1, Website is unreachable\nActivating URL")
         app.run(host='0.0.0.0', port=8585)
     test_score_service()
+
 
 if __name__ == "__main__":
     main_function()

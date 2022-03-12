@@ -1,8 +1,9 @@
 FROM python
-WORKDIR ./app
-COPY . /app
+WORKDIR ./app/
+COPY *.py /app/
+COPY Scores.txt /app/
 COPY prereq.txt prereq.txt
 RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
-EXPOSE 8777
-CMD ["python", "flask"]
+RUN pip install -r prereq.txt
+EXPOSE 8585
+CMD python3 main_game.py
