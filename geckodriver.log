@@ -245,3 +245,8 @@ DevTools listening on ws://localhost:59145/devtools/browser/a85e686c-61a8-448c-b
 1645301023000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 1645301038013	Marionette	INFO	Stopped listening on port 35495
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Gdk-Message: 20:18:11.347: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
