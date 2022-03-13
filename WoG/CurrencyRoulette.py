@@ -27,14 +27,15 @@ def play_currency(difficulty_chosen):
     get_guess = get_guess_from_user()
     print(f"You believe {get_guess} is close to be right, let's see...")
     if float(inter[0]) <= float(get_guess) <= float(inter[1]):
-        win = True
         print(f"The correct answer is between {float(inter[0])} and {float(inter[1])}")
         print("Well done, you're a conversion genius!")
+        win = True
+        return win
     else:
-        win = False
         print(f"The correct answer is between {float(inter[0])} and {float(inter[1])}")
         print("Sorry you're way off, try again soon!")
-    return win
+        win = False
+        return win
 
 
 

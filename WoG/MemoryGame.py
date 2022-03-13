@@ -27,12 +27,13 @@ def is_list_equal(generated, list_from_input):
     list1 = generated
     list2 = list_from_input
     if list2 == list1:
-        win = True
         print("Great job! you remembered correctly!")
+        win = True
+        return win
     else:
-        win = False
         print("Sorry, you are not correct, please try again soon.")
-    return win
+        win = False
+        return win
 
 
 def play_memory(difficulty_chosen):

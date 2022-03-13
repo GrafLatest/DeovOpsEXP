@@ -1,6 +1,14 @@
+from CurrencyRoulette import play_currency
+from GuessGame import play_guess
+from MemoryGame import play_memory
+win = False
+
+
 def greeting_name():
     name = input("Please state your name for the record: ")
     print(f"Hello {name} and welcome to the World Of Games (WoG). Here you can find many cool games to play")
+
+    return name
 
 
 def load_game():
@@ -41,3 +49,4 @@ def load_game():
             print(f"Invalid input --> {difficulty_chosen} difficulty level.")
 
     return game_chosen, difficulty_chosen
+
