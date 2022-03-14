@@ -12,7 +12,6 @@ def greeting_name():
 
 
 def load_game():
-    print(chr(27) + "[2J")
     print(f"Please choose a game to play: "
           f"\n 1 Memory Game - a sequence fo numbers will appear for 1 second and you have to guess back "
           f"\n 2 Guess Game - Guess a number and see if you chose like the computer "

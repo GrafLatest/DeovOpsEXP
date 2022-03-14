@@ -3,6 +3,9 @@ from GuessGame import play_guess
 from MemoryGame import play_memory
 from CurrencyRoulette import play_currency
 import Score
+import MainScores
+import e2e
+
 name = greeting_name()
 game_chosen, difficulty_chosen = load_game()
 
@@ -24,5 +27,6 @@ elif game_chosen == 3:
         Score.add_score(difficulty_chosen)
     else:
         print("wrong")
-
+exec(MainScores.app.run())
+exec(e2e.main_function())
 # Score.add_score(difficulty_chosen)
