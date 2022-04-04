@@ -1,0 +1,13 @@
+[servers]
+example-ubuntu
+example ubuntu2
+example-centos
+[webservers]
+server1
+server2
+server3
+[webservers:vars]
+server1=new.example.com
+halon_system_timeout=30
+self_destruct_countdown=60
+escape_pods=2

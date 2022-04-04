@@ -1,0 +1,12 @@
+- name: Install vim
+    apt:
+      name: 'vim'
+      state: present
+- name: install httpd
+    apt:
+      name: 'httpd'
+      state: latest
+- name: install net-tools
+    apt:
+      name: 'net-tools'
+      state: present

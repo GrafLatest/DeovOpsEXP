@@ -1,0 +1,4 @@
+- name: Creates directory
+  file:
+    path: /tmp/this_is_centos/enmpty.txt
+    state: directory

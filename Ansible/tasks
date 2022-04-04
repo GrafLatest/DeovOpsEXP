@@ -1,0 +1,10 @@
+- hosts: raspberries
+  tasks:
+  - name: Install vim test editor
+    apt:
+      name: vim
+      state: latest
+  - name: Install zip compressor
+    apt:
+      name: zip
+      state: latest
